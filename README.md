@@ -45,3 +45,6 @@ Find your IP with `hostname -I | awk '{print $1}'`.
 - Ubuntu or Debian
 - Root / sudo access
 - `wget` (pre-installed on most systems)
+
+## Project
+- https://roadmap.sh/projects/simple-monitoring-dashboard
